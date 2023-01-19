@@ -22,12 +22,12 @@ title: Alec Petersen
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Alec Petersen, a postdoctoral researcher at University of California Irvine.
-  I work with Tirtha Banerjee, in the Department of Civil and Environmental Engineering on the fluid dynamics
-  of wildfires, ember transport and turbulence in atmospheric flows.
-baseurl: "/personal_website" # the subpath of your site, e.g. /blog
+  I work with Tirtha Banerjee, in the Department of Civil and Environmental Engineering on the fluid dynamics of wildfires, 
+  ember transport and turbulence in atmospheric flows.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alecjpetersen.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: alecjpetersen
+github_username:  ajpetersen25
 markdown: kramdown
 highlighter: rouge
 
