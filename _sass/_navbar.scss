@@ -1,10 +1,11 @@
 // Navbar
 
 .navbar {
-  position: sticky;
+  position: fixed;
   top: 0px;
   background-color: white!important;
   border-bottom: 1px solid $gray-200;
+  
 
   .navbar-brand {
     font-weight: bold;
