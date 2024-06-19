@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
+title: Multiphase Turbulence 
+description: The physics of flows all around us
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
