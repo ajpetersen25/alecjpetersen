@@ -2,7 +2,7 @@
 layout: home
 title: Multiphase Turbulence 
 description: The physics of flows all around us
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+background: /assets/theme/images/cloudia_small.gif
 permalink: /
 ---
 
